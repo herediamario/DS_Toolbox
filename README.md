@@ -1,2 +1,2 @@
 # DS_Toolbox
-This repository will have all the content related to the DS toolbox course
+This repository will store all of the content created by herediamario, related to the DS toolbox course
